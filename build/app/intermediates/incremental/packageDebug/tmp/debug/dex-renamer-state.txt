@@ -1,0 +1,4 @@
+#Sun Sep 24 21:29:02 KST 2023
+base.0=/Users/parknayoung/Desktop/Git/toonflix_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
